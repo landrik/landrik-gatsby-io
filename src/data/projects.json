@@ -1,0 +1,41 @@
+[
+    {
+        "title":"BBC Asset & Marketing",
+        "slug":"project_1",
+        "url":"http://www.google.com/",
+        "thumbnailImage":"../assets/img/projects/proj1/thumb.png",
+        "project_details":{
+            "the_brief": "Implement OB First generation for BBC Marketing & Assets",
+            "the_result": "Working for a big household name such as BBC, it was clear from the start, that we needed to deliver something worthy. The challenge was that this was the first project of its kind, its success guaranteed more projects like it.",
+            "date":"SPRING 2012", 
+            "client":"BBC: M&A", 
+            "tags": "ART DIRECTION, BACKEND DEVELOPMENT, UX & UI DESIGN, FRONTEND DEVELOPMENT, BRANDING & PRINT DESIGN"
+        }
+    },
+    {
+        "title":"Oficial London Theatre",
+        "slug":"project_2",
+        "url":"http://www.google.com/",
+        "thumbnailImage":"../assets/img/projects/proj3/thumb.png",
+        "project_details":{
+            "the_brief": "Implement OB First generation for BBC Marketing & Assets",
+            "the_result": "Working for a big household name such as BBC, it was clear from the start, that we needed to deliver something worthy. The challenge was that this was the first project of its kind, its success guaranteed more projects like it.",
+            "date":"SPRING 2012", 
+            "client":"BBC: M&A", 
+            "tags": "ART DIRECTION, BACKEND DEVELOPMENT, UX & UI DESIGN, FRONTEND DEVELOPMENT, BRANDING & PRINT DESIGN"
+        }
+    },
+    {
+        "title":"BUPA Inspire",
+        "slug":"project_3",
+        "url":"http://www.google.com/",
+        "thumbnailImage":"../assets/img/projects/proj7/thumb.png",
+        "project_details":{
+            "the_brief": "Implement OB First generation for BBC Marketing & Assets",
+            "the_result": "Working for a big household name such as BBC, it was clear from the start, that we needed to deliver something worthy. The challenge was that this was the first project of its kind, its success guaranteed more projects like it.",
+            "date":"SPRING 2012", 
+            "client":"BBC: M&A", 
+            "tags": "ART DIRECTION, BACKEND DEVELOPMENT, UX & UI DESIGN, FRONTEND DEVELOPMENT, BRANDING & PRINT DESIGN"
+        }
+    }
+]

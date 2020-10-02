@@ -71,7 +71,8 @@ ul.projects {
         padding: 25% 0;
         box-sizing: border-box;
       }
-      &:hover figcaption, &:focus figcaption {
+      &:hover figcaption, 
+      &:focus figcaption {
         filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
         opacity: 1;
       }
@@ -139,6 +140,7 @@ ul.projects {
     vertical-align: middle;
     float: none;
     color: #fff;
+    a{text-decoration: none;}
   }
 }
 

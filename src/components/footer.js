@@ -11,7 +11,7 @@ const Footer = ({ siteTitle }) => (
     }}>
     © {new Date().getFullYear()} | handcrafted with 
     {` `}
-    <span class="heart">♥</span>
+    <span className="heart">♥</span>
     {` `}
     by
     {` `}
